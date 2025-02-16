@@ -1,0 +1,110 @@
+C:\Users\rose_\source\repos\client code\client code\bin\Debug\net8.0-windows\client code.exe
+C:\Users\rose_\source\repos\client code\client code\bin\Debug\net8.0-windows\client code.deps.json
+C:\Users\rose_\source\repos\client code\client code\bin\Debug\net8.0-windows\client code.runtimeconfig.json
+C:\Users\rose_\source\repos\client code\client code\bin\Debug\net8.0-windows\client code.dll
+C:\Users\rose_\source\repos\client code\client code\bin\Debug\net8.0-windows\client code.pdb
+C:\Users\rose_\source\repos\client code\client code\obj\Debug\net8.0-windows\client_code.startpage.resources
+C:\Users\rose_\source\repos\client code\client code\obj\Debug\net8.0-windows\client code.csproj.GenerateResource.cache
+C:\Users\rose_\source\repos\client code\client code\obj\Debug\net8.0-windows\client code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rose_\source\repos\client code\client code\obj\Debug\net8.0-windows\client code.AssemblyInfoInputs.cache
+C:\Users\rose_\source\repos\client code\client code\obj\Debug\net8.0-windows\client code.AssemblyInfo.cs
+C:\Users\rose_\source\repos\client code\client code\obj\Debug\net8.0-windows\client code.csproj.CoreCompileInputs.cache
+C:\Users\rose_\source\repos\client code\client code\obj\Debug\net8.0-windows\client code.dll
+C:\Users\rose_\source\repos\client code\client code\obj\Debug\net8.0-windows\refint\client code.dll
+C:\Users\rose_\source\repos\client code\client code\obj\Debug\net8.0-windows\client code.pdb
+C:\Users\rose_\source\repos\client code\client code\obj\Debug\net8.0-windows\client code.genruntimeconfig.cache
+C:\Users\rose_\source\repos\client code\client code\obj\Debug\net8.0-windows\ref\client code.dll
+C:\Users\rose_\source\repos\client code\client code\obj\Debug\net8.0-windows\client_code.userpage.resources
+C:\Users\rose_\source\repos\client code\client code\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\rose_\source\repos\client code\client code\obj\Debug\net8.0-windows\client code.csproj.AssemblyReference.cache
+C:\Users\rose_\source\repos\client code\client code\obj\Debug\net8.0-windows\client c.3E749467.Up2Date
+C:\Users\rose_\source\repos\client code\client code\obj\Debug\net8.0-windows\client_code.Properties.Resources.resources
+C:\Users\rose_\source\repos\client code\client code\obj\Debug\net8.0-windows\client_code.gamebase.resources
+D:\CS PROJECT AFTER MAZE\client code\bin\Debug\net8.0-windows\client code.exe
+D:\CS PROJECT AFTER MAZE\client code\bin\Debug\net8.0-windows\client code.deps.json
+D:\CS PROJECT AFTER MAZE\client code\bin\Debug\net8.0-windows\client code.runtimeconfig.json
+D:\CS PROJECT AFTER MAZE\client code\bin\Debug\net8.0-windows\client code.dll
+D:\CS PROJECT AFTER MAZE\client code\bin\Debug\net8.0-windows\client code.pdb
+D:\CS PROJECT AFTER MAZE\client code\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\CS PROJECT AFTER MAZE\client code\obj\Debug\net8.0-windows\client code.csproj.AssemblyReference.cache
+D:\CS PROJECT AFTER MAZE\client code\obj\Debug\net8.0-windows\client_code.gamebase.resources
+D:\CS PROJECT AFTER MAZE\client code\obj\Debug\net8.0-windows\client_code.startpage.resources
+D:\CS PROJECT AFTER MAZE\client code\obj\Debug\net8.0-windows\client_code.Properties.Resources.resources
+D:\CS PROJECT AFTER MAZE\client code\obj\Debug\net8.0-windows\client_code.userpage.resources
+D:\CS PROJECT AFTER MAZE\client code\obj\Debug\net8.0-windows\client code.csproj.GenerateResource.cache
+D:\CS PROJECT AFTER MAZE\client code\obj\Debug\net8.0-windows\client code.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS PROJECT AFTER MAZE\client code\obj\Debug\net8.0-windows\client code.AssemblyInfoInputs.cache
+D:\CS PROJECT AFTER MAZE\client code\obj\Debug\net8.0-windows\client code.AssemblyInfo.cs
+D:\CS PROJECT AFTER MAZE\client code\obj\Debug\net8.0-windows\client code.csproj.CoreCompileInputs.cache
+D:\CS PROJECT AFTER MAZE\client code\obj\Debug\net8.0-windows\client c.3E749467.Up2Date
+D:\CS PROJECT AFTER MAZE\client code\obj\Debug\net8.0-windows\client code.dll
+D:\CS PROJECT AFTER MAZE\client code\obj\Debug\net8.0-windows\refint\client code.dll
+D:\CS PROJECT AFTER MAZE\client code\obj\Debug\net8.0-windows\client code.pdb
+D:\CS PROJECT AFTER MAZE\client code\obj\Debug\net8.0-windows\client code.genruntimeconfig.cache
+D:\CS PROJECT AFTER MAZE\client code\obj\Debug\net8.0-windows\ref\client code.dll
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\bin\Debug\net8.0-windows\client code.exe
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\bin\Debug\net8.0-windows\client code.deps.json
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\bin\Debug\net8.0-windows\client code.runtimeconfig.json
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\bin\Debug\net8.0-windows\client code.dll
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\bin\Debug\net8.0-windows\client code.pdb
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\obj\Debug\net8.0-windows\client code.csproj.AssemblyReference.cache
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\obj\Debug\net8.0-windows\client_code.gamebase.resources
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\obj\Debug\net8.0-windows\client_code.startpage.resources
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\obj\Debug\net8.0-windows\client_code.Properties.Resources.resources
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\obj\Debug\net8.0-windows\client_code.userpage.resources
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\obj\Debug\net8.0-windows\client code.csproj.GenerateResource.cache
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\obj\Debug\net8.0-windows\client code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\obj\Debug\net8.0-windows\client code.AssemblyInfoInputs.cache
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\obj\Debug\net8.0-windows\client code.AssemblyInfo.cs
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\obj\Debug\net8.0-windows\client code.csproj.CoreCompileInputs.cache
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\obj\Debug\net8.0-windows\client c.3E749467.Up2Date
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\obj\Debug\net8.0-windows\client code.dll
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\obj\Debug\net8.0-windows\refint\client code.dll
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\obj\Debug\net8.0-windows\client code.pdb
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\obj\Debug\net8.0-windows\client code.genruntimeconfig.cache
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\client code\obj\Debug\net8.0-windows\ref\client code.dll
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\bin\Debug\net8.0-windows\client code.exe
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\bin\Debug\net8.0-windows\client code.deps.json
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\bin\Debug\net8.0-windows\client code.runtimeconfig.json
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\bin\Debug\net8.0-windows\client code.dll
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\bin\Debug\net8.0-windows\client code.pdb
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.csproj.AssemblyReference.cache
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client_code.gamebase.resources
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client_code.startpage.resources
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client_code.Properties.Resources.resources
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client_code.userpage.resources
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.csproj.GenerateResource.cache
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.AssemblyInfoInputs.cache
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.AssemblyInfo.cs
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.csproj.CoreCompileInputs.cache
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client c.3E749467.Up2Date
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.dll
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\refint\client code.dll
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.pdb
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.genruntimeconfig.cache
+D:\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\ref\client code.dll
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\bin\Debug\net8.0-windows\client code.exe
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\bin\Debug\net8.0-windows\client code.deps.json
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\bin\Debug\net8.0-windows\client code.runtimeconfig.json
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\bin\Debug\net8.0-windows\client code.dll
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\bin\Debug\net8.0-windows\client code.pdb
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.csproj.AssemblyReference.cache
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client_code.gamebase.resources
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client_code.startpage.resources
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client_code.Properties.Resources.resources
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client_code.userpage.resources
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.csproj.GenerateResource.cache
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.AssemblyInfoInputs.cache
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.AssemblyInfo.cs
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.csproj.CoreCompileInputs.cache
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client c.3E749467.Up2Date
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.dll
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\refint\client code.dll
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.pdb
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\client code.genruntimeconfig.cache
+C:\Users\rose_\OneDrive\IMPROVED CS PROJECT\CS PROJECT AFTER PACMAN CONFIG\client code\obj\Debug\net8.0-windows\ref\client code.dll
